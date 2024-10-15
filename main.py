@@ -6,6 +6,9 @@ from calendar_data import CalendarData
 from booking_policies import BookingPolicies
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # Set up OpenAI API key
 os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
 client = Swarm()
