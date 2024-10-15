@@ -2,6 +2,12 @@
 
 This is an AI-powered appointment booking system that allows users to check availability and book appointments. The system uses a conversational interface and is built using the Swarm AI framework.
 
+## Demo 
+
+![Demo](demo.gif)
+
+[Watch the full demo video](infinit_ai_engineer_assignment.mp4)
+
 ## Features
 
 1. Check appointment availability
